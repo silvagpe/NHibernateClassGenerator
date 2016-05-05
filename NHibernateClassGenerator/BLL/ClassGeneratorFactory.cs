@@ -25,7 +25,7 @@ namespace NHibernateClassGenerator.BLL
                 case 2: classGenerator = new ClassGeneratorOracle();
                     break;
                     //Mysql
-                case 3: classGenerator = null;
+                case 3: classGenerator = new ClassGeneratorMySql();
                     break;
                     //Postgres
                 case 4: classGenerator = new ClassGeneratorPostgres();
