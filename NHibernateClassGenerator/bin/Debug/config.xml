@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Configs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TipoDoServidor>3</TipoDoServidor>
+  <IP_Imp>mysql12-farm61.uni5.net</IP_Imp>
+  <Banco_Imp>inastore</Banco_Imp>
+  <Usuario_Imp>inastore</Usuario_Imp>
+  <Senha_Imp>ina987</Senha_Imp>
+  <Porta_Imp>3306</Porta_Imp>
+  <PrefixClas>BW_</PrefixClas>
+  <NS_Entity>BW.Dominio.Entidades</NS_Entity>
+  <NS_Map>BW.Dominio.Mapeamentos</NS_Map>
+  <StrInterface>IEntidade</StrInterface>
+</Configs>

@@ -1,0 +1,13 @@
+D:\Projetos\Databoff_Remoto\trunk\Projeto_PDV\NHibernateClassGenerator\bin\Release\NHibernateClassGenerator.exe.config
+D:\Projetos\Databoff_Remoto\trunk\Projeto_PDV\NHibernateClassGenerator\bin\Release\NHibernateClassGenerator.exe
+D:\Projetos\Databoff_Remoto\trunk\Projeto_PDV\NHibernateClassGenerator\bin\Release\NHibernateClassGenerator.pdb
+D:\Projetos\Databoff_Remoto\trunk\Projeto_PDV\NHibernateClassGenerator\bin\Release\FirebirdSql.Data.FirebirdClient.dll
+D:\Projetos\Databoff_Remoto\trunk\Projeto_PDV\NHibernateClassGenerator\bin\Release\Mono.Security.dll
+D:\Projetos\Databoff_Remoto\trunk\Projeto_PDV\NHibernateClassGenerator\bin\Release\Npgsql.dll
+D:\Projetos\Databoff_Remoto\trunk\Projeto_PDV\NHibernateClassGenerator\obj\Release\NHibernateClassGenerator.FormConfigDB.resources
+D:\Projetos\Databoff_Remoto\trunk\Projeto_PDV\NHibernateClassGenerator\obj\Release\NHibernateClassGenerator.FormNHClassGen.resources
+D:\Projetos\Databoff_Remoto\trunk\Projeto_PDV\NHibernateClassGenerator\obj\Release\NHibernateClassGenerator.Properties.Resources.resources
+D:\Projetos\Databoff_Remoto\trunk\Projeto_PDV\NHibernateClassGenerator\obj\Release\NHibernateClassGenerator.csproj.GenerateResource.Cache
+D:\Projetos\Databoff_Remoto\trunk\Projeto_PDV\NHibernateClassGenerator\obj\Release\NHibernateClassGenerator.exe
+D:\Projetos\Databoff_Remoto\trunk\Projeto_PDV\NHibernateClassGenerator\obj\Release\NHibernateClassGenerator.pdb
+D:\Projetos\Databoff_Remoto\trunk\Projeto_PDV\NHibernateClassGenerator\obj\Release\NHibernateClassGenerator.csprojResolveAssemblyReference.cache
