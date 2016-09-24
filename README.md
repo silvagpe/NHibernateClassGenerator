@@ -1,2 +1,2 @@
-Projeto para gerar classes de entidades e mapeamento para utilização com NHibernate e FluentNhibernate
+Gerador de classes e mapeamentos para utilização de FluentNhibernate NHibernate
 
